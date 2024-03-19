@@ -1,6 +1,7 @@
 - Como executar o código????
-- o código se divide em 4 pastas:
-- 1) Pasta destinada ao relátorio: nele vai conter um relatório em forma de texto, com todas as análises e explicações acerca do código
+- o código se divide em 4 partes:
+- 1) Arquivo destinada ao relátorio: nele vai conter um relatório em forma de texto, com todas as análises e explicações acerca do código
+    * nome do arquivo: LEDA-RELATORIO 1.pdf*
  
   !!! AS PASTAS DESTINAS AS IMPLEMENTAÇÕES VÃO ESTAR DIVIDIDAS PELA QUANTIDADE DE DADOS INSERIDOS!!!
           !!!TODAS AS IMPLEMENTAÇÕES DEVEM SER RODADAS 1 DE CADA VEZ, SEPARADAMENTE!!!
